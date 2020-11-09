@@ -13,7 +13,14 @@ sw += ["les", "plus", "cette", "fait", "faire", "être", "deux", "comme", "dont"
        "ils", "bien", "sans", "peut", "tous", "après", "ainsi", "donc", "cet", "sous",
        "celle", "entre", "encore", "toutes", "pendant", "moins", "dire", "cela", "non",
        "faut", "trois", "aussi", "dit", "avoir", "doit", "contre", "depuis", "autres",
-       "van", "het", "autre", "jusqu"]
+       "van", "het", "autre", "jusqu", "quant", "quand", "seulement", "etc", "assez", 
+       "celui", "parce", "très", "elles", "suivant", "quelque", "leurs", "durant", "ici",
+       "toute", "plusieurs", "ceux", "part", "déjà", "ceux", "suite", "moment", "côté", 
+       "pouvons", "semble", "crois", "personne", "chaque", "avant", "aucune", "chose", 
+       "pourrait", "car", "laquelle", "sujet", "nombre", "chez", "lorsque", "voici", 
+       "vient", "avi", "pourra", "trouve", "devons", "abord", "cependant", "puis", 
+       "voilà", "alors", "quelle", "tant", "celles", "aucun", "aucun ", "maintenant", "jamais", 
+       "lequel", "beaucoup", "peu"]
 sw = set(sw)
 
 
